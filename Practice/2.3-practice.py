@@ -25,6 +25,16 @@ paragraph_size = 10 # What does this mean???
 para = 10   # What does this mean???
 
 
+#name = input("What is your name?\n> ")
+#age = input("What is your age?\n> ")
+#print(f"Name: {name} Age: {age}")
 
-name = "Roxy"
-print("Hello " + name +"!") 
+
+#Get the number as a string
+num = input("What number do you want to square?\n> ")
+
+#Parse (converst) the string to an integer
+num = int(num)
+
+#Do math and print
+print(num * num)
