@@ -22,4 +22,4 @@ def tally_score():
         score += 1
 
 tally_score()
-print("the score is: ", score, "\n")
+print("\nthe score is: ", score, "\n")
